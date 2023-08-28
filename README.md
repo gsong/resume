@@ -138,18 +138,18 @@ Exemplary client projects:
 
 University of California, Berkeley, CA: Computer Science, 1995
 
-[apple]: https://www.apple.com
-[bigtincan]: https://www.bigtincan.com
-[dequency]: https://dequency.io
-[django girls]: https://djangogirls.org
-[edb]: https://www.enterprisedb.com
-[edx]: https://www.edx.org
+[Apple]: https://www.apple.com
+[Bigtincan]: https://www.bigtincan.com
+[Dequency]: https://dequency.io
+[Django Girls]: https://djangogirls.org
+[EDB]: https://www.enterprisedb.com
+[edX]: https://www.edx.org
 [epo-ops]: https://github.com/ip-tools/python-epo-ops-client
-[hackbright academy]: https://hackbrightacademy.com
-[knipper]: http://www.knipper.com
-[miro]: https://www.mirohealth.app
-[techtonica]: https://techtonica.org
-[the north face]: https://www.thenorthface.com
-[universalgiving]: http://www.universalgiving.org
+[Hackbright Academy]: https://hackbrightacademy.com
+[Knipper]: http://www.knipper.com
+[Miro]: https://www.mirohealth.app
+[Techtonica]: https://techtonica.org
+[The North Face]: https://www.thenorthface.com
+[UniversalGiving]: http://www.universalgiving.org
 [wbd]: https://wbd.com/
-[westaff]: http://www.westaff.com
+[Westaff]: http://www.westaff.com
