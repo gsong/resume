@@ -6,19 +6,21 @@ Print Footer Right: %date
 
 # George Song
 
+**Experienced, Hands-on Engineering Leader**
+
 <mailto:george@gsong.dev>  
 [510-473-2101](tel:+1-510-473-2101)  
 <https://gsong.dev>  
-5656 23rd Ave SW, Seattle WA 98106
+Seattle, WA
 
 ## Core Competencies
 
-- **Fostering Effectiveness and Collaboration**: Empower teams, amplifying productivity and cultivating a culture of high-performance dynamics.
+- **Effectiveness and Collaboration**: Empower teams, amplifying productivity and cultivating a culture of high-performance dynamics.
 - **Swift Domain Mastery**: Rapidly grasp unfamiliar domains, innovating solutions despite limited prior knowledge.
-- **From Concept to Implementation**: Synthesize intricate ideas into actionable plans, user-centric designs, and top-notch implementations.
+- **Concept to Implementation**: Synthesize intricate ideas into actionable plans, user-centric designs, and top-notch implementations.
 - **Agile Adoption of Best Practices**: Proactively stay current with industry standards, strategically infusing them into the development process.
-- **Advocating Streamlined Workflows**: Dedicated to frictionless development, continually refining processes for efficient software lifecycle experiences.
-- **Incorporating Cross-Community Insights**: Actively engage with diverse programming communities, absorb invaluable learnings, and integrate their finest ideas into my own practice.
+- **Streamlined Workflows**: Dedicated to frictionless development, continually refining processes for efficient software lifecycle experiences.
+- **Cross-Community Insights**: Actively engage with diverse programming communities, absorbing and integrating invaluable learnings.
 
 ## Technology Proficiency
 
@@ -115,15 +117,6 @@ Exemplary client projects:
 - Generated multi-million dollar revenue through leadership of developers and support specialists.
 - Increased revenue by several million dollars through the implementation and evolution of a product API, enabling the design and construction of custom UIs.
 
-### [Westaff]: <small style="font-size:.7em;">Database Administrator, 1997–2000</small>
-
-- Facilitated nightly payroll processing and paycheck distribution to temporary staff across the globe.
-- Managed the processing of millions of intricate tax records on a quarterly basis.
-
-### [The North Face]: <small style="font-size:.7em;">System Administrator, 1991–1997</small>
-
-- Modernized the computing environment for global headquarters, remote offices, and the stores.
-
 ### On the Side
 
 - [Techtonica]: Advised CEO, provided technical help, created teaching material, mentored apprentices, 2016–2022
@@ -136,7 +129,7 @@ Exemplary client projects:
 
 ## Education
 
-University of California, Berkeley, CA: Computer Science, 1995
+University of California, Berkeley: Computer Science
 
 [Apple]: https://www.apple.com
 [Bigtincan]: https://www.bigtincan.com
