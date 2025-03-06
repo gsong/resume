@@ -1,42 +1,24 @@
-<!--
-Title: George Song's Résumé
-Print Footer Left: %title (Page %page of %total)
-Print Footer Right: %date
--->
-
 # George Song
 
 **Experienced, Hands-on Engineering Leader**
 
-<mailto:george@gsong.dev>  
-[510-473-2101](tel:+1-510-473-2101)  
-<https://gsong.dev>  
-Seattle, WA
+[george@gsong.dev](mailto:george@gsong.dev) | [510-473-2101](tel:+1-510-473-2101) | <https://gsong.dev> | Seattle, WA
 
-## Core Competencies
+## How I Lead
 
-- **Effectiveness and Collaboration**: Empower teams, amplifying productivity and cultivating a culture of high-performance dynamics.
-- **Swift Domain Mastery**: Rapidly grasp unfamiliar domains, innovating solutions despite limited prior knowledge.
-- **Concept to Implementation**: Synthesize intricate ideas into actionable plans, user-centric designs, and top-notch implementations.
-- **Agile Adoption of Best Practices**: Proactively stay current with industry standards, strategically infusing them into the development process.
-- **Streamlined Workflows**: Dedicated to frictionless development, continually refining processes for efficient software lifecycle experiences.
-- **Cross-Community Insights**: Actively engage with diverse programming communities, absorbing and integrating invaluable learnings.
+- **I align technology with business outcomes.** I ensure our technical strategy drives growth, scalability, and customer value—balancing innovation with pragmatic execution.
+- **I focus on impact, not vanity metrics.** Success isn’t about lines of code or sprint velocity—it’s about delivering meaningful results, reducing friction, and enabling teams to thrive.
+- **I build high-performing teams.** From mentoring emerging leaders to fostering a strong engineering culture, I empower teams to take ownership, grow their skills, and deliver impact.
+- **I bridge strategy and execution.** I translate between engineers, executives, and customers—ensuring alignment between product vision, business priorities, and technical execution.
+- **I thrive in ambiguity and high-stakes problem-solving.** Whether scaling a system under rapid growth or navigating tough trade-offs, I bring clarity, break problems down, and chart the best path forward.
 
-## Technology Proficiency
+## How I Build
 
-- **Front-End**: Expert in React (with or without Remix), crafting dynamic and responsive interfaces for exceptional user experiences.
-- **Back-End**: Skilled in Node.js and Express, developing robust foundational solutions for web applications.
-- **GraphQL**: Experienced with Apollo, facilitating efficient data management and communication.
-- **Python & Django**: Proficient in crafting Django-powered Python applications with a focus on readability and maintainability.
-- **Docker**: Adept at Docker for consistent development and reliable software delivery.
-- **Efficient Deployment**: Proficient in Ansible, streamlining server configuration management.
-- **Cloud Expertise**: Skilled in cloud-based deployments on Ubuntu LTS, ensuring scalability and reliability.
-
-## Objectives
-
-- **Joining Impactful Community**: Dedicated to diverse, purpose-driven communities for positive change.
-- **Nurturing Mastery**: Refine skills encompassing user experience, application development, and fostering growth in others, culminating in driving perpetual innovation.
-- **Embracing Collaboration**: Thrives on cross-disciplinary teamwork, valuing diverse insights for enhanced learning and outcomes.
+- **I design for scale and simplicity.** The best systems are the simplest ones that meet the need. I focus on clear domain boundaries and reducing complexity to keep things scalable, maintainable, and adaptable.
+- **I make thoughtful technology choices.** I stay hands-on to evaluate tools, balancing modern best practices with developer experience, long-term maintainability, and business needs.
+- **I prioritize early and reliable deployment.** I deploy as early as possible to test assumptions, automate where it makes sense, and always maintain manual fail-safes for resilience.
+- **I take a pragmatic approach to architecture.** Microservices aren’t a silver bullet—well-defined domain models matter more. I strike the right balance between modularity, cost, and operational simplicity.
+- **I drive AI-powered developer effectiveness.** AI isn’t just for writing code—it enhances the entire software lifecycle, from analysis to documentation to code review. I integrate AI tools to remove friction and maximize impact.
 
 ## Experience
 
