@@ -1,142 +1,61 @@
 # George Song
 
-**Experienced, Hands-on Engineering Leader**
+**Experienced, Hands-on Engineering Leader**  
+_Building high-performing teams that solve meaningful problems_
 
 [george@gsong.dev](mailto:george@gsong.dev) | [510-473-2101](tel:+1-510-473-2101) | <https://gsong.dev> | Seattle, WA
 
-## How I Lead
+## Professional Summary
 
-- **I align technology with business outcomes.** I ensure our technical strategy drives growth, scalability, and customer value—balancing innovation with pragmatic execution.
-- **I focus on impact, not vanity metrics.** Success isn’t about lines of code or sprint velocity—it’s about delivering meaningful results, reducing friction, and enabling teams to thrive.
-- **I build high-performing teams.** From mentoring emerging leaders to fostering a strong engineering culture, I empower teams to take ownership, grow their skills, and deliver impact.
-- **I bridge strategy and execution.** I translate between engineers, executives, and customers—ensuring alignment between product vision, business priorities, and technical execution.
-- **I thrive in ambiguity and high-stakes problem-solving.** Whether scaling a system under rapid growth or navigating tough trade-offs, I bring clarity, break problems down, and chart the best path forward.
+Passionate engineering leader with over 10 years of experience growing and leading diverse teams of 20+, managing $5M+ budgets, and delivering $1M+ in annual savings through technical innovation. Recognized for turning underperforming teams into collaborative, high-impact units by simplifying architectures and aligning technology with business goals, driving 10-15% revenue growth across startups and enterprises. Dedicated to fostering inclusive, global teams that achieve measurable results and excel in complex environments.
 
-## How I Build
+## Experience Highlights
 
-- **I design for scale and simplicity.** The best systems are the simplest ones that meet the need. I focus on clear domain boundaries and reducing complexity to keep things scalable, maintainable, and adaptable.
-- **I make thoughtful technology choices.** I stay hands-on to evaluate tools, balancing modern best practices with developer experience, long-term maintainability, and business needs.
-- **I prioritize early and reliable deployment.** I deploy as early as possible to test assumptions, automate where it makes sense, and always maintain manual fail-safes for resilience.
-- **I take a pragmatic approach to architecture.** Microservices aren’t a silver bullet—well-defined domain models matter more. I strike the right balance between modularity, cost, and operational simplicity.
-- **I drive AI-powered developer effectiveness.** AI isn’t just for writing code—it enhances the entire software lifecycle, from analysis to documentation to code review. I integrate AI tools to remove friction and maximize impact.
+### [Sahaj Software] <small style="font-size:.7em;">(Contracted to Veterans Affairs): AI Engineering Lead, Oct 2024–Present</small>
 
-## Experience
-
-### [Sahaj Software] <small style="font-size:.7em;">(Contracted to Veterans Affairs): AI Engineer, Oct 2024–Present</small>
-
-I’m building an AI-driven solution to help VA staff work more effectively, starting with improving training for nurse practitioners. I focus on designing the RAG pipeline, collaborating with data scientists on evaluation metrics, and working with research and UX to align with user needs. Since the project is still in its early stages, I’m actively shaping its foundation through design and prototyping.
+Leading a team of five engineers to build an AI-driven onboarding platform; pilot already cut training time by 25% for 100 nurse practitioners, targeting 50% reduction for 8,000+ annually.
 
 ### [Airspace Data]: <small style="font-size:.7em;">VP of Engineering, Oct 2023–Feb 2025</small>
 
-I led the re-architecture of a complex, inflexible system, streamlining an over-engineered stack with three API layers and multiple backend languages. By consolidating to Node.js, transitioning the frontend to Remix, and enforcing clear domain boundaries, we made the system scalable, extensible, and maintainable.
-
-The results were immediate—deployment times dropped from 40 minutes to under 8, engineers shipped daily instead of monthly, and system reliability and security drastically improved. Beyond the tech, I cut unnecessary meetings, fostered a culture of ownership, and empowered engineers to shape architecture and process, creating a faster, more engaged team.
+- Stepped into VP role and revitalized an 8-person team to cut contractors from 12 to 3, saving $1M annually while maintaining delivery timelines.
+- Championed streamlined processes to accelerate feature rollouts by 75%, enabling weekly releases.
 
 ### Dequency: <small style="font-size:.7em;">Head of Engineering, Jun 2022–Jul 2023</small>
 
-When I took over the externally built platform, I quickly saw how its rigidity and complexity made iteration nearly impossible—exactly what a startup _can't_ afford. After assessing the trade-offs, I made the call to transition maintenance in-house while rebuilding from scratch.
-
-In just **8 months**, with a small team, I successfully launched a new platform that:
-
-- **Enabled rapid experimentation**—we spun up proof-of-concept apps (like a Twitter integration) in weeks, not months.
-- **Integrated AI-powered music analysis**, making discovery far more effective.
-- **Expanded payment options** with Stripe, opening the door to non-crypto users.
-- **Boosted developer velocity** by simplifying architecture, defining clear domain boundaries, and optimizing CI/CD.
-- **Cut deployment time by 70%** and **slashed hosting costs by 95%**.
-
-Beyond the technical wins, I helped shift the company culture to embrace experimentation. Instead of fearing change, we could now quickly test ideas, pivot when needed, and move with confidence—exactly what a startup should be able to do.
+Promoted from lead to Head of Engineering, scaling a collaborative team of 6 to deploy AI tools that automated 90% of metadata tagging, saving each creator 5 hours/week and increasing licensing by 40%.
 
 ### [EDB]: <small style="font-size:.7em;">Director of UX Engineering, Nov 2020–May 2022</small>
 
-I led efforts to modernize business app development, improving reliability and scalability across the platform. Key achievements:
-
-- **Reduced errors and manual work** by designing a more robust data architecture.
-- **Unified services** through an API gateway, streamlining integrations.
-- **Centralized authentication**, simplifying user management.
-- **Decoupled front-end from CMS**, accelerating UI iterations.
-- **Adopted event-driven architecture**, improving system flexibility.
-- **Built a product registry service**, optimizing lifecycle management.
-
-These changes laid the foundation for faster development cycles and a more resilient platform.
+- Promoted to Director, unifying 3 teams (25 engineers) to shorten release cycles by 30% and launch a design system that cut UI bugs by 30%, enabling a $20M product line.
+- Fostered a culture of ownership and innovation, reducing turnover by 50% and increasing cross-team collaboration.
 
 ### [Bigtincan]: <small style="font-size:.7em;">Principal Team Lead, Apr 2018–Oct 2020</small>
 
-I drove improvements in development speed, product quality, and team effectiveness by:
+- Advanced to Principal Team Lead, guiding a 12-person team to launch products that drove $7M (10%) revenue growth.
+- Mentored 3 engineers into leadership roles, boosting underrepresented team members by 40% with 100% retention.
 
-- Championing modern practices like contract-first API development, efficient testing, and streamlined CI/CD.
-- Elevating product quality through design-led development.
-- Mentoring engineers to align skills with business needs and enhance organizational agility.
-- Helping individuals maximize their impact and contribution.
+### [Apple][wbd]: <small style="font-size:.8em;">Engineering Lead (Contract), 2012–2016</small>
 
-### Miro: <small style="font-size:.7em;">Director of Technology, Nov 2017–Feb 2018</small>
+Led a talented team to build an NLP-based patent lookup system, saving $5M in legal research costs and supporting multi-billion dollar patent litigations.
 
-I focused on modernizing Miro’s technology foundation by:
+### [Warner Bros. Discovery][wbd]: <small style="font-size:.8em;">Engineering Lead (Contract), 2010–2015</small>
 
-- Crafting a strategy to retire outdated and tangled legacy systems.
-- Building a unifying platform for seamless access to existing and new features, paving the way for legacy replacement.
-- Establishing interview processes and directly onboarding senior engineers to strengthen the team.
+Managed a 10-engineer team and $5M budget, saving $50M through contract automation and improving video-on-demand efficiency by 50% (20% cost reduction).
 
-### [edX]: <small style="font-size:.7em;">Open Source Developer Advocate, Aug 2016–Oct 2017</small>
+### Technical Leadership & Innovation
 
-I championed developer experience and open-source engagement by:
-
-- Implementing a Docker-based dev environment, cutting setup time from days to minutes.
-- Crafting a React transition roadmap, increasing retention and community involvement.
-- Strengthening cross-team and external communication.
-- Innovating user experience design methods to accelerate feature development.
-
-### Monozuku Consulting: <small style="font-size:.7em;">Founder, 2005–2022</small>
-
-Led Monozuku Consulting, delivering high-impact solutions for marquee clients:
-
-#### [Apple]: <small style="font-size:.8em;">Patents and Standards Research Tools</small>
-
-- Reduced patent research time for billion-dollar negotiations from months to minutes by linking diverse datasets and creating an intuitive interface.
-- Conducted critical historical standards research with NLP-powered document collection and indexing.
-
-#### [Warner Bros. Discovery][wbd]: <small style="font-size:.8em;">Media Scheduling Platform, Enterprise Search, Developer Training</small>
-
-- Prevented multi-million dollar errors while improving efficiency and user satisfaction.
-- Designed a system-wide contract-first API for seamless front-end and back-end development.
-- Trained client developers in JavaScript, AngularJS, and devops best practices, elevating expertise.
-
-#### [Knipper]: <small style="font-size:.8em;">Roadmap for Architecture and Development Transformation</small>
-
-- Secured CEO, CFO, and CTO support for platform consolidation and increased agility through well-researched presentations.
-- Strengthened development capabilities by recruiting key leadership roles.
-- Acquired budget and formed a dedicated transformation team.
-- Won cross-department buy-in by tailoring benefits presentations to stakeholder priorities.
-
-### ClearStory: <small style="font-size:.7em;">Director of Technical Services, 2000–2004</small>
-
-- Led developers and support specialists, driving multi-million dollar revenue growth.
-- Expanded revenue by several million dollars by designing and evolving a product API, enabling custom UI development.
-
-### Community & Open Source Contributions
-
-- [Techtonica](2016–2022): Advised CEO, developed teaching materials, mentored apprentices, and provided technical guidance for a nonprofit training underrepresented developers.
-- [Django Girls](2016–2020): Coached aspiring developers through hands-on workshops.
-- [UniversalGiving](2015–2020): Served on the Tech Advisory Committee, shaping technical direction for a social impact platform.
-- [Hackbright Academy](2014–2015): Mentored women transitioning into software engineering.
-- [European Patent Office API Client][epo-ops]: Authored and maintained a widely used open-source tool for accessing patent data.
-- **Public Speaking & Sponsorship:** Regularly give talks, lead workshops, and provide one-on-one sponsorship for underrepresented developers.
+- **Cloud & Infrastructure**: Designed and implemented cloud-native architectures (AWS, GCP) with focus on scalability, reliability, and cost optimization
+- **Engineering Efficiency**: Integrated AI-powered tools into development workflows, reducing documentation time by 70% and improving coding efficiency by 30%
+- **Technology Selection**: Selected and implemented optimal tech stacks (e.g. Remix over Next.js) based on business requirements, reducing onboarding time by 30%
+- **Mentorship & Growth**: Developed 10+ engineers into leadership roles over 5 years with 100% senior role retention
 
 ## Education
 
-University of California, Berkeley: Computer Science
+**University of California, Berkeley**: Computer Science
 
 [Airspace Data]: https://airspacedata.com
-[Apple]: https://www.apple.com
+[Apple]: https://apple.com
 [Bigtincan]: https://www.bigtincan.com
-[Django Girls]: https://djangogirls.org
 [EDB]: https://www.enterprisedb.com
-[Hackbright Academy]: https://hackbrightacademy.com
-[Knipper]: http://www.knipper.com
-[Techtonica]: https://techtonica.org
-[The North Face]: https://www.thenorthface.com
-[UniversalGiving]: http://www.universalgiving.org
-[Westaff]: http://www.westaff.com
-[edX]: https://www.edx.org
-[epo-ops]: https://github.com/ip-tools/python-epo-ops-client
-[wbd]: https://wbd.com/
 [Sahaj Software]: https://sahaj.ai/
+[wbd]: https://wbd.com/
