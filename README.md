@@ -22,11 +22,11 @@
 
 ## Experience
 
-### [Sahaj Software] <small style="font-size:.7em;">(Contracted to U.S. Department of Veterans Affairs): AI Engineer, Oct 2024–Present</small>
+### [Sahaj Software] <small style="font-size:.7em;">(Contracted to Veterans Affairs): AI Engineer, Oct 2024–Present</small>
 
 I’m building an AI-driven solution to help VA staff work more effectively, starting with improving training for nurse practitioners. I focus on designing the RAG pipeline, collaborating with data scientists on evaluation metrics, and working with research and UX to align with user needs. Since the project is still in its early stages, I’m actively shaping its foundation through design and prototyping.
 
-### [Airspace Data]: <small style="font-size:.7em;">VP of Engineering, Oct 2023–Mar 2025</small>
+### [Airspace Data]: <small style="font-size:.7em;">VP of Engineering, Oct 2023–Feb 2025</small>
 
 I led the re-architecture of a complex, inflexible system, streamlining an over-engineered stack with three API layers and multiple backend languages. By consolidating to Node.js, transitioning the frontend to Remix, and enforcing clear domain boundaries, we made the system scalable, extensible, and maintainable.
 
@@ -48,74 +48,78 @@ Beyond the technical wins, I helped shift the company culture to embrace experim
 
 ### [EDB]: <small style="font-size:.7em;">Director of UX Engineering, Nov 2020–May 2022</small>
 
-Led efforts in advancing business app development maturity. Key achievements include:
+I led efforts to modernize business app development, improving reliability and scalability across the platform. Key achievements:
 
-- Designed data architecture for reduced errors and manual tasks.
-- Established API gateway for unified service federation.
-- Centralized authentication, enhancing user management.
-- Separated website presentation from content management, aiding front-end iterations.
-- Transitioned to event-driven architecture, decoupling services.
-- Developed product registry service for streamlined product lifecycle management.
+- **Reduced errors and manual work** by designing a more robust data architecture.
+- **Unified services** through an API gateway, streamlining integrations.
+- **Centralized authentication**, simplifying user management.
+- **Decoupled front-end from CMS**, accelerating UI iterations.
+- **Adopted event-driven architecture**, improving system flexibility.
+- **Built a product registry service**, optimizing lifecycle management.
+
+These changes laid the foundation for faster development cycles and a more resilient platform.
 
 ### [Bigtincan]: <small style="font-size:.7em;">Principal Team Lead, Apr 2018–Oct 2020</small>
 
-- Enhanced development speed via modern practices like contract-first API development, efficient testing, and streamlined CI/CD.
-- Elevated product quality through design-led development.
-- Bolstered organizational agility via mentorship, aligning skills with needs.
-- Cultivated individual effectiveness and value.
+I drove improvements in development speed, product quality, and team effectiveness by:
 
-### [Miro]: <small style="font-size:.7em;">Director of Technology, Nov 2017–Feb 2018</small>
+- Championing modern practices like contract-first API development, efficient testing, and streamlined CI/CD.
+- Elevating product quality through design-led development.
+- Mentoring engineers to align skills with business needs and enhance organizational agility.
+- Helping individuals maximize their impact and contribution.
 
-- Devised strategy to retire outdated and tangled legacy systems.
-- Built unifying platform for seamless access to existing and new features, aiding legacy replacement.
-- Established interview processes, conducting interviews to onboard senior engineers and other team members.
+### Miro: <small style="font-size:.7em;">Director of Technology, Nov 2017–Feb 2018</small>
+
+I focused on modernizing Miro’s technology foundation by:
+
+- Crafting a strategy to retire outdated and tangled legacy systems.
+- Building a unifying platform for seamless access to existing and new features, paving the way for legacy replacement.
+- Establishing interview processes and directly onboarding senior engineers to strengthen the team.
 
 ### [edX]: <small style="font-size:.7em;">Open Source Developer Advocate, Aug 2016–Oct 2017</small>
 
-- Implemented Docker-based dev environment, slashing setup time from days to minutes.
-- Crafted React transition roadmap, boosting retention and open source engagement.
-- Enhanced cross-team and external communication.
-- Innovated user experience design methods, accelerating feature development.
+I championed developer experience and open-source engagement by:
 
-<!--BREAK-->
+- Implementing a Docker-based dev environment, cutting setup time from days to minutes.
+- Crafting a React transition roadmap, increasing retention and community involvement.
+- Strengthening cross-team and external communication.
+- Innovating user experience design methods to accelerate feature development.
 
 ### Monozuku Consulting: <small style="font-size:.7em;">Founder, 2005–2022</small>
 
-Exemplary client projects:
+Led Monozuku Consulting, delivering high-impact solutions for marquee clients:
 
 #### [Apple]: <small style="font-size:.8em;">Patents and Standards Research Tools</small>
 
-- Slashed patent research time for billion-dollar negotiations from months to minutes. Linked diverse data, created user-friendly interface.
-- Conducted vital historical standards research through NLP-enabled document collection and indexing.
+- Reduced patent research time for billion-dollar negotiations from months to minutes by linking diverse datasets and creating an intuitive interface.
+- Conducted critical historical standards research with NLP-powered document collection and indexing.
 
 #### [Warner Bros. Discovery][wbd]: <small style="font-size:.8em;">Media Scheduling Platform, Enterprise Search, Developer Training</small>
 
-- Prevented multi-million dollar errors.
-- Significantly enhanced user efficiency and satisfaction.
-- Facilitated seamless front and back end development with system-wide contract-first API design.
-- Elevated client developers' expertise through AngularJS, ES2015+, Gulp, and JavaScript best practices training.
+- Prevented multi-million dollar errors while improving efficiency and user satisfaction.
+- Designed a system-wide contract-first API for seamless front-end and back-end development.
+- Trained client developers in JavaScript, AngularJS, and devops best practices, elevating expertise.
 
 #### [Knipper]: <small style="font-size:.8em;">Roadmap for Architecture and Development Transformation</small>
 
-- Garnered CEO, CFO, and CTO support for merging platforms and enhancing agility via researched presentations.
-- Enhanced capabilities by recruiting Development and QA Directors.
-- Acquired budget and formed transformation team.
-- Gained buy-in from cross-department stakeholders by tailoring benefits presentations.
+- Secured CEO, CFO, and CTO support for platform consolidation and increased agility through well-researched presentations.
+- Strengthened development capabilities by recruiting key leadership roles.
+- Acquired budget and formed a dedicated transformation team.
+- Won cross-department buy-in by tailoring benefits presentations to stakeholder priorities.
 
 ### ClearStory: <small style="font-size:.7em;">Director of Technical Services, 2000–2004</small>
 
-- Generated multi-million dollar revenue through leadership of developers and support specialists.
-- Increased revenue by several million dollars through the implementation and evolution of a product API, enabling the design and construction of custom UIs.
+- Led developers and support specialists, driving multi-million dollar revenue growth.
+- Expanded revenue by several million dollars by designing and evolving a product API, enabling custom UI development.
 
-### On the Side
+### Community & Open Source Contributions
 
-- [Techtonica]: Advised CEO, provided technical help, created teaching material, mentored apprentices, 2016–2022
-- [Django Girls]: Coach, 2016–2020
-- [UniversalGiving]: Tech Advisory Committee Member, 2015–2020
-- [Hackbright Academy]: Mentor, 2014–2015
-- [European Patent Office API Client][epo-ops]: Author and Maintainer, 2014–Present
-- Give talks and run workshops at meetups and conferences.
-- Provide one-on-one sponsorship to underrepresented developers.
+- [Techtonica](2016–2022): Advised CEO, developed teaching materials, mentored apprentices, and provided technical guidance for a nonprofit training underrepresented developers.
+- [Django Girls](2016–2020): Coached aspiring developers through hands-on workshops.
+- [UniversalGiving](2015–2020): Served on the Tech Advisory Committee, shaping technical direction for a social impact platform.
+- [Hackbright Academy](2014–2015): Mentored women transitioning into software engineering.
+- [European Patent Office API Client][epo-ops]: Authored and maintained a widely used open-source tool for accessing patent data.
+- **Public Speaking & Sponsorship:** Regularly give talks, lead workshops, and provide one-on-one sponsorship for underrepresented developers.
 
 ## Education
 
@@ -128,7 +132,6 @@ University of California, Berkeley: Computer Science
 [EDB]: https://www.enterprisedb.com
 [Hackbright Academy]: https://hackbrightacademy.com
 [Knipper]: http://www.knipper.com
-[Miro]: https://www.mirohealth.app
 [Techtonica]: https://techtonica.org
 [The North Face]: https://www.thenorthface.com
 [UniversalGiving]: http://www.universalgiving.org
