@@ -22,33 +22,29 @@
 
 ## Experience
 
-### [Sahaj Software] (Contracted to U.S. Department of Veterans Affairs): <small style="font-size:.7em;">AI Engineer, Oct 2024–Present</small>
+### [Sahaj Software] <small style="font-size:.7em;">(Contracted to U.S. Department of Veterans Affairs): AI Engineer, Oct 2024–Present</small>
 
 I’m building an AI-driven solution to help VA staff work more effectively, starting with improving training for nurse practitioners. I focus on designing the RAG pipeline, collaborating with data scientists on evaluation metrics, and working with research and UX to align with user needs. Since the project is still in its early stages, I’m actively shaping its foundation through design and prototyping.
 
-### [Airspace Data]: <small style="font-size:.7em;">VP of Engineering, Oct 2023–March 2025</small>
+### [Airspace Data]: <small style="font-size:.7em;">VP of Engineering, Oct 2023–Mar 2025</small>
 
 I led the re-architecture of a complex, inflexible system, streamlining an over-engineered stack with three API layers and multiple backend languages. By consolidating to Node.js, transitioning the frontend to Remix, and enforcing clear domain boundaries, we made the system scalable, extensible, and maintainable.
 
 The results were immediate—deployment times dropped from 40 minutes to under 8, engineers shipped daily instead of monthly, and system reliability and security drastically improved. Beyond the tech, I cut unnecessary meetings, fostered a culture of ownership, and empowered engineers to shape architecture and process, creating a faster, more engaged team.
 
-### [Dequency]: <small style="font-size:.7em;">Head of Engineering, Jun 2022–Jul 2023</small>
+### Dequency: <small style="font-size:.7em;">Head of Engineering, Jun 2022–Jul 2023</small>
 
-At Dequency, I took charge of the external agency-built v2 platform. V2 presented challenges hindering rapid iterations:
+When I took over the externally built platform, I quickly saw how its rigidity and complexity made iteration nearly impossible—exactly what a startup _can't_ afford. After assessing the trade-offs, I made the call to transition maintenance in-house while rebuilding from scratch.
 
-- Complex abstractions reminiscent of Java web apps.
-- Tight coupling of front-end features across user roles.
-- Mismatched domain and schema models.
-- Prevalence of elusive bugs.
-- Unreliable and sluggish continuous integration and deployment.
+In just **8 months**, with a small team, I successfully launched a new platform that:
 
-I led the transition to in-house maintenance of v2 while making the bold call to reconstruct the platform. In just 8 months with a compact team, I achieved both feats. The new platform seamlessly supplanted v2, addressing all deficiencies and introducing previously difficult-to-develop features:
+- **Enabled rapid experimentation**—we spun up proof-of-concept apps (like a Twitter integration) in weeks, not months.
+- **Integrated AI-powered music analysis**, making discovery far more effective.
+- **Expanded payment options** with Stripe, opening the door to non-crypto users.
+- **Boosted developer velocity** by simplifying architecture, defining clear domain boundaries, and optimizing CI/CD.
+- **Cut deployment time by 70%** and **slashed hosting costs by 95%**.
 
-- Integrated AI music analysis engine, significantly enhancing discovery.
-- Introduced Stripe payment integration, welcoming non-crypto users.
-- Implemented a custom license feature, unveiling new business opportunities.
-
-Our teams swiftly developed proof-of-concept apps (e.g., one for Twitter in a week), cut deployment time by 70%, reduced hosting expenses by 95%, and notably boosted developer productivity and morale.
+Beyond the technical wins, I helped shift the company culture to embrace experimentation. Instead of fearing change, we could now quickly test ideas, pivot when needed, and move with confidence—exactly what a startup should be able to do.
 
 ### [EDB]: <small style="font-size:.7em;">Director of UX Engineering, Nov 2020–May 2022</small>
 
@@ -128,7 +124,6 @@ University of California, Berkeley: Computer Science
 [Airspace Data]: https://airspacedata.com
 [Apple]: https://www.apple.com
 [Bigtincan]: https://www.bigtincan.com
-[Dequency]: https://dequency.io
 [Django Girls]: https://djangogirls.org
 [EDB]: https://www.enterprisedb.com
 [Hackbright Academy]: https://hackbrightacademy.com
