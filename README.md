@@ -22,6 +22,16 @@
 
 ## Experience
 
+### [Sahaj Software] (Contracted to U.S. Department of Veterans Affairs): <small style="font-size:.7em;">AI Engineer, Oct 2024–Present</small>
+
+I’m building an AI-driven solution to help VA staff work more effectively, starting with improving training for nurse practitioners. I focus on designing the RAG pipeline, collaborating with data scientists on evaluation metrics, and working with research and UX to align with user needs. Since the project is still in its early stages, I’m actively shaping its foundation through design and prototyping.
+
+### [Airspace Data]: <small style="font-size:.7em;">VP of Engineering, Oct 2023–March 2025</small>
+
+I led the re-architecture of a complex, inflexible system, streamlining an over-engineered stack with three API layers and multiple backend languages. By consolidating to Node.js, transitioning the frontend to Remix, and enforcing clear domain boundaries, we made the system scalable, extensible, and maintainable.
+
+The results were immediate—deployment times dropped from 40 minutes to under 8, engineers shipped daily instead of monthly, and system reliability and security drastically improved. Beyond the tech, I cut unnecessary meetings, fostered a culture of ownership, and empowered engineers to shape architecture and process, creating a faster, more engaged team.
+
 ### [Dequency]: <small style="font-size:.7em;">Head of Engineering, Jun 2022–Jul 2023</small>
 
 At Dequency, I took charge of the external agency-built v2 platform. V2 presented challenges hindering rapid iterations:
@@ -71,6 +81,8 @@ Led efforts in advancing business app development maturity. Key achievements inc
 - Enhanced cross-team and external communication.
 - Innovated user experience design methods, accelerating feature development.
 
+<!--BREAK-->
+
 ### Monozuku Consulting: <small style="font-size:.7em;">Founder, 2005–2022</small>
 
 Exemplary client projects:
@@ -113,18 +125,20 @@ Exemplary client projects:
 
 University of California, Berkeley: Computer Science
 
+[Airspace Data]: https://airspacedata.com
 [Apple]: https://www.apple.com
 [Bigtincan]: https://www.bigtincan.com
 [Dequency]: https://dequency.io
 [Django Girls]: https://djangogirls.org
 [EDB]: https://www.enterprisedb.com
-[edX]: https://www.edx.org
-[epo-ops]: https://github.com/ip-tools/python-epo-ops-client
 [Hackbright Academy]: https://hackbrightacademy.com
 [Knipper]: http://www.knipper.com
 [Miro]: https://www.mirohealth.app
 [Techtonica]: https://techtonica.org
 [The North Face]: https://www.thenorthface.com
 [UniversalGiving]: http://www.universalgiving.org
-[wbd]: https://wbd.com/
 [Westaff]: http://www.westaff.com
+[edX]: https://www.edx.org
+[epo-ops]: https://github.com/ip-tools/python-epo-ops-client
+[wbd]: https://wbd.com/
+[Sahaj Software]: https://sahaj.ai/
